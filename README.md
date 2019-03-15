@@ -9,7 +9,7 @@ There are 2 scripts provided which walk through the interactive capabilities of 
   - Jupyter-compatible visualizations
   - Simple console sharing
 2. **Python scikit-learn library.** Demonstrates:
-  - Simple digit classification using python machine learning scikit-learn lib
+  - Simple digit classification using python machine learning scikit-learn library
 
 ## Setup instructions
 Note: You only need to do this once.
