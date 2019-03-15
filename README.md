@@ -8,7 +8,7 @@ There are 2 scripts provided which walk through the interactive capabilities of 
   - Markdown via comments
   - Jupyter-compatible visualizations
   - Simple console sharing
-2. **Python scikit-learn library.** Demonstrates:
+2. **Python Digit Classification.** Demonstrates:
   - Simple digit classification using python machine learning scikit-learn library
 
 ## Setup instructions
