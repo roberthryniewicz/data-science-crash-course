@@ -1,5 +1,5 @@
-# DWS Barcelona 2019
-Data Science Crash Course hands-on tour of Cloudera Data Science Workbench (CDSW)
+# DataWorks Summit Data Science Crash Course
+A hands-on tour of Cloudera Data Science Workbench (CDSW)
 
 ## Workbench
 There are 2 scripts provided which walk through the interactive capabilities of Cloudera Data Science Workbench.
