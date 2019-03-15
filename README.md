@@ -14,7 +14,7 @@ There are 2 scripts provided which walk through the interactive capabilities of 
 ## Setup instructions
 Note: You only need to do this once.
 
-# Run the following
+### Run the following
 ```Python
 !pip3 install --upgrade matplotlib
 !pip3 install --upgrade pandas_highcharts
